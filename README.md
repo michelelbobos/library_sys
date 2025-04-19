@@ -8,6 +8,6 @@ A simple Java-based library management system that allows adding books and displ
 - Object-oriented design (Book and Library classes)
 ### classes:
 - Book:
-  Book.java
+  library_sys/Book.java
 - Library
 - Main class to run
