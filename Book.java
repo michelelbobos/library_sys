@@ -1,4 +1,3 @@
-package library_system;
 import java .util.Scanner;
 public class Book {
     private String author;
